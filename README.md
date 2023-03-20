@@ -1,4 +1,4 @@
-# DataStructuresAndAlgorithms_19-20
+# Bachelor Course: Data Structures And Algorithms 2019-2020
 This repository contains the code related to the practica done as part of the Data Structures and Algorithms Bachelor course of the KU Leuven, taken in the academic year 2019-2020
 
 This course was given in Dutch, so the assignments and reports are written in Dutch.
